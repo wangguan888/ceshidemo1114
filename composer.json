@@ -1,20 +1,11 @@
 {
-    "name": "administrator/ceshidemo1114",
-    "description": "this is a demo1114",
-    "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
+    "name": "wangguan888/ceshidemo1114",
+    "description": "this is a ceshi demo",
     "authors": [
         {
             "name": "c88",
             "email": "903106090@qq.com"
         }
     ],
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.phpcomposer.com"
-    }
-  }
+    "require": {}
 }
